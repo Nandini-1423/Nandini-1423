@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **python ,sql**
 
-- 📫 How to reach me **nandurock.1123@gmail.com**
+- 📫 How to reach me **nandini.039385@gmail.com**
 
 - ⚡ Fun fact **"Why do programmers prefer dark mode? Because light attracts bugs."**
 
